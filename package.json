@@ -1,0 +1,22 @@
+{
+  "name": "henrihuuskonen.github.io",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "dev": "open-cli index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrihuuskonen/henrihuuskonen.github.io.git"
+  },
+  "author": "Henri Huuskonen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henrihuuskonen/henrihuuskonen.github.io/issues"
+  },
+  "homepage": "https://github.com/henrihuuskonen/henrihuuskonen.github.io#readme",
+  "devDependencies": {
+    "open-cli": "^7.0.1"
+  }
+}
